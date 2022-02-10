@@ -7,8 +7,8 @@ my application is deployed to this website [here](https://upbeat-goldstine-7d9fb
 - bugs to be fixed
 
 to run this app locally:
-`git clone this_project`
-`npm install` to also install dependencies like react-icons
-`npm start`
+1. `git clone this_project`
+2. `npm install` to also install dependencies like react-icons
+3. `npm start`
 
 happy coding!
